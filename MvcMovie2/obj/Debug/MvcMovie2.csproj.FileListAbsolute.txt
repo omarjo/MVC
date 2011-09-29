@@ -1,0 +1,7 @@
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\bin\MvcMovie2.dll
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\bin\MvcMovie2.pdb
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\bin\EntityFramework.dll
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\bin\EntityFramework.xml
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\obj\Debug\MvcMovie2.dll
+c:\users\omar josue\documents\visual studio 2010\Projects\MvcMovie2\MvcMovie2\obj\Debug\MvcMovie2.pdb
